@@ -51,24 +51,5 @@ I’m currently learning about data structures and algorithms : *https://algorit
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
 
 
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
-
-
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
-
-
-### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
-
-
-### ☕ Get In Touch
-- [Twitter](https://twitter.com/ishacker_net)
-- [Bilibili](https://space.bilibili.com/364361791)
-- [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
-- [Personal Site](https://ishacker.net)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
-
+ 
  
